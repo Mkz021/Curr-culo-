@@ -1,0 +1,24 @@
+body {font-family:'Courier New', Courier, monospace;
+background:#1295c9;
+text-Align:center;
+margin: 0;
+}
+    header{
+        background-color: aliceblue;
+        color: blueviolet;
+        padding: 25px;
+    }
+    section{
+        margin: 30px;
+    }
+    h2{
+        color: bisque;
+    }
+    .projeto{
+        background-color: rgb(255, 157, 0);
+        padding: 20px;
+        margin: 15px auto;
+        width: 60%;
+        border-radius: 10px;
+        box-shadow:10px 15px 25px rgb(230, 6, 181);
+    }
