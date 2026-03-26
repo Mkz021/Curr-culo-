@@ -12,7 +12,7 @@ margin: 0;
         margin: 30px;
     }
     h2{
-        color: bisque;
+        color: rgb(82, 170, 238);
     }
     .projeto{
         background-color: rgb(255, 157, 0);
@@ -21,4 +21,10 @@ margin: 0;
         width: 60%;
         border-radius: 10px;
         box-shadow:10px 15px 25px rgb(230, 6, 181);
+    }
+    footer{
+        background-color: blanchedalmond;
+        color: blueviolet;
+        padding: 15px;
+        margin-top: 30px;
     }
